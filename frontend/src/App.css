@@ -1,0 +1,53 @@
+.edit-btn {
+  background-color: #5cb85c;
+  color: white;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+.edit-btn:hover {
+  background-color: #317531;
+  cursor: pointer;
+}
+
+.delete-btn {
+  background-color: #337ab7;
+  color: white;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+.delete-btn:hover {
+  background-color: #1687ea;
+}
+
+.view-btn {
+  background-color: #d43f3a;
+  color: white;
+  margin-left: 5px;
+  cursor: pointer;
+}
+
+.view-btn:hover {
+  background-color: red;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.PrivateSwitchBase-input {
+  display: none !important;
+}
+
+.deletebun {
+  position: absolute !important;
+  top: 10px;
+  right: 10px
+}
+
+.deleteUserbun {
+  position: absolute !important;
+  top: 70px;
+  right: 10px
+}
